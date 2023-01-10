@@ -27,7 +27,9 @@
                 </ul>
             </nav>
         </div>
-            <p>Best car rent in Poland </p>
+        <div id="napis">
+            Best car rent in Poland
+        </div> 
     </header>
 
     <main>
