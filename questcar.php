@@ -27,7 +27,9 @@
                 </ul>
             </nav>
         </div>
-            <p>Best car rent in Poland </p>
+        <div id="napis">
+            Best car rent in Poland
+        </div> 
     </header>
 
     <main>
@@ -48,7 +50,7 @@
                     <select id="transmission" name="transmission">
                         <option value="manual">Manual</option>
                         <option value="automatic">Automatic</option>
-                    </select>
+                    </select><br>
                 <label for="drive">Drive : </label>
                     <select id="drive" name="drive">
                         <option value="AWD">AWD</option>

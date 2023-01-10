@@ -27,7 +27,17 @@
                 </ul>
             </nav>
         </div>
-            <p>Best car rent in Poland </p>
+        <div id="napis">
+            Best car rent in Poland
+        </div>   
+       <br>
+       <div class="kontakt">
+            <p>Godziny Otwarcia:<br></p> 
+            <p>Pn-Pt 8:00-19:00<br></p> 
+            <p>Sb-Nd 12:00-21:00<br></p> 
+            <p>Email : car_rent@gmail.com</p>    
+            <p>Telefon : 111 222 333</p>
+        </div>
     </header>
 
     <main>

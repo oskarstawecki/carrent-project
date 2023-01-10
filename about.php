@@ -27,7 +27,19 @@
                 </ul>
             </nav>
         </div>
-            <p>Best car rent in Poland </p>
+        <div id="napis">
+            Best car rent in Poland
+        </div> 
+        <div class="tresc">
+                Szukasz samochodu na już? Nie chcesz wpłacać wysokiej kaucji? Bez problemu! Carrent-project oferuje setki ofert,
+                z których na pewno wybierzesz coś dla siebie!
+                Dlaczego jest u nas tak tanio? Jesteśmy serwisem pośrednim w wynajmie samochodów. Oferty, które są u nas aktualne
+                nie należą do nas, lecz do osób które swoje auto udostępniają. Nie oznacza to, jednak że pobieramy tylko kaucję. Zgodnie
+                z regulaminem strony, nasi agenci są odpowiedzialni za:<br>
+                - Kontrolę stanu technicznego wypożyczanych pojazdów, przed jak i po zwróceniu go przez klienta<br>
+                - Dostarczenie pojazdu w wyznaczone przez klienta miejsce<br>
+                - Kontrolę czystości w udostępnianym pojeździe<br>
+        </div>
     </header>
 
     <main>
